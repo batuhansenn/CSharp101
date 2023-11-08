@@ -1,0 +1,15 @@
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/bin/Debug/net7.0/tip_donusumleri
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/bin/Debug/net7.0/tip_donusumleri.deps.json
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/bin/Debug/net7.0/tip_donusumleri.runtimeconfig.json
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/bin/Debug/net7.0/tip_donusumleri.dll
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/bin/Debug/net7.0/tip_donusumleri.pdb
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/obj/Debug/net7.0/tip_donusumleri.csproj.AssemblyReference.cache
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/obj/Debug/net7.0/tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/obj/Debug/net7.0/tip_donusumleri.AssemblyInfoInputs.cache
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/obj/Debug/net7.0/tip_donusumleri.AssemblyInfo.cs
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/obj/Debug/net7.0/tip_donusumleri.csproj.CoreCompileInputs.cache
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/obj/Debug/net7.0/tip_donusumleri.dll
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/obj/Debug/net7.0/refint/tip_donusumleri.dll
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/obj/Debug/net7.0/tip_donusumleri.pdb
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/obj/Debug/net7.0/tip_donusumleri.genruntimeconfig.cache
+/Users/batuhansen/Desktop/Pratikler/tip_donusumleri/obj/Debug/net7.0/ref/tip_donusumleri.dll
