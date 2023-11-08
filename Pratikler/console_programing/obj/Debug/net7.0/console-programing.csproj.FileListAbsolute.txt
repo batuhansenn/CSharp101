@@ -1,0 +1,15 @@
+/Users/batuhansen/Desktop/Pratikler/console_programing/bin/Debug/net7.0/console-programing
+/Users/batuhansen/Desktop/Pratikler/console_programing/bin/Debug/net7.0/console-programing.deps.json
+/Users/batuhansen/Desktop/Pratikler/console_programing/bin/Debug/net7.0/console-programing.runtimeconfig.json
+/Users/batuhansen/Desktop/Pratikler/console_programing/bin/Debug/net7.0/console-programing.dll
+/Users/batuhansen/Desktop/Pratikler/console_programing/bin/Debug/net7.0/console-programing.pdb
+/Users/batuhansen/Desktop/Pratikler/console_programing/obj/Debug/net7.0/console-programing.csproj.AssemblyReference.cache
+/Users/batuhansen/Desktop/Pratikler/console_programing/obj/Debug/net7.0/console-programing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batuhansen/Desktop/Pratikler/console_programing/obj/Debug/net7.0/console-programing.AssemblyInfoInputs.cache
+/Users/batuhansen/Desktop/Pratikler/console_programing/obj/Debug/net7.0/console-programing.AssemblyInfo.cs
+/Users/batuhansen/Desktop/Pratikler/console_programing/obj/Debug/net7.0/console-programing.csproj.CoreCompileInputs.cache
+/Users/batuhansen/Desktop/Pratikler/console_programing/obj/Debug/net7.0/console-programing.dll
+/Users/batuhansen/Desktop/Pratikler/console_programing/obj/Debug/net7.0/refint/console-programing.dll
+/Users/batuhansen/Desktop/Pratikler/console_programing/obj/Debug/net7.0/console-programing.pdb
+/Users/batuhansen/Desktop/Pratikler/console_programing/obj/Debug/net7.0/console-programing.genruntimeconfig.cache
+/Users/batuhansen/Desktop/Pratikler/console_programing/obj/Debug/net7.0/ref/console-programing.dll
