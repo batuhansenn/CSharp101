@@ -1,0 +1,15 @@
+/Users/batuhansen/Desktop/Pratikler/operatorler/bin/Debug/net7.0/operatorler
+/Users/batuhansen/Desktop/Pratikler/operatorler/bin/Debug/net7.0/operatorler.deps.json
+/Users/batuhansen/Desktop/Pratikler/operatorler/bin/Debug/net7.0/operatorler.runtimeconfig.json
+/Users/batuhansen/Desktop/Pratikler/operatorler/bin/Debug/net7.0/operatorler.dll
+/Users/batuhansen/Desktop/Pratikler/operatorler/bin/Debug/net7.0/operatorler.pdb
+/Users/batuhansen/Desktop/Pratikler/operatorler/obj/Debug/net7.0/operatorler.csproj.AssemblyReference.cache
+/Users/batuhansen/Desktop/Pratikler/operatorler/obj/Debug/net7.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batuhansen/Desktop/Pratikler/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfoInputs.cache
+/Users/batuhansen/Desktop/Pratikler/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfo.cs
+/Users/batuhansen/Desktop/Pratikler/operatorler/obj/Debug/net7.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/batuhansen/Desktop/Pratikler/operatorler/obj/Debug/net7.0/operatorler.dll
+/Users/batuhansen/Desktop/Pratikler/operatorler/obj/Debug/net7.0/refint/operatorler.dll
+/Users/batuhansen/Desktop/Pratikler/operatorler/obj/Debug/net7.0/operatorler.pdb
+/Users/batuhansen/Desktop/Pratikler/operatorler/obj/Debug/net7.0/operatorler.genruntimeconfig.cache
+/Users/batuhansen/Desktop/Pratikler/operatorler/obj/Debug/net7.0/ref/operatorler.dll
